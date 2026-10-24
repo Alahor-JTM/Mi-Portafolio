@@ -37,3 +37,5 @@ git commit -m "Actualiza el README" git push origin main
 | git push | Sube los cambios al remoto |
 
 > Documentar es parte del trabajo, no un extra al final.
+
+[Ver la Guía de Usuario del Proyecto](docs/GUÍA.md)
